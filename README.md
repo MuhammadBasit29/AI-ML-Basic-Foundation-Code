@@ -82,7 +82,7 @@ Linear Regression
 
 ---
 
-# 🛠️ Tech Stack
+ Tech Stack
 
 * Python
 * NumPy
