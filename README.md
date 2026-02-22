@@ -92,7 +92,7 @@ Linear Regression
 
 ---
 
-# 📊 What This Project Demonstrates
+ What This Project Demonstrates
 
 * Strong understanding of ML fundamentals
 * Ability to derive gradients manually
@@ -103,7 +103,7 @@ Linear Regression
 
 ---
 
-# 🚀 Next Steps
+ Next Steps
 
 Planned improvements:
 
@@ -114,15 +114,3 @@ Planned improvements:
 * Build end-to-end ML pipeline
 * Deploy model using FastAPI or Streamlit
 
----
-
-# 🎯 Why This Matters
-
-Understanding ML from scratch builds strong foundations required for:
-
-* Machine Learning Engineering
-* Deep Learning
-* Applied AI
-* Production ML systems
-
-This project focuses on understanding the “why” behind algorithms, not just the “how”.
